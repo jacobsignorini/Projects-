@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=grade
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=high
+comment2.target=int\ max(java.util.ArrayList)
+comment3.params=mini
+comment3.target=int\ min(java.util.ArrayList)
+comment4.params=avg
+comment4.target=int\ mean(java.util.ArrayList)
+comment5.params=most
+comment5.target=int\ mode(java.util.ArrayList)
+numComments=6
